@@ -1,4 +1,5 @@
-Visit Website: https://sadekmia24845.github.io/Front-End-Design-With-API/
+Visit URL: https://sadekmia24845.github.io/Front-End-Design-With-API/
+Visit URL: https://genuine-cranachan-86d577.netlify.app/
 
 Phone Explorer - Device Specification Finder
 
